@@ -82,7 +82,7 @@ int main()
     scanf("%s", cidade2);
 
     printf("Digite a população da cidade: ");
-    scanf("%d", &populacao2);
+    scanf("%lu", &populacao2);
 
     printf("Digite a área da cidade: ");
     scanf("%f", &area2);
